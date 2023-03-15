@@ -1,0 +1,97 @@
+
+
+@media only screen and (max-width: 992px) {
+    .left-mar {
+      margin-left: 30px;
+    }
+
+    .h1-p {
+        margin-left: 30px;
+      }
+  }
+
+  @media only screen and (max-width:768px) {
+
+    .h1-p {
+        padding:0 15px 0 10px;
+      }
+  }
+
+  @media only screen and (max-width:760px) {
+
+    .select-project {
+        margin-top:30px;
+      }
+  }
+
+
+  @media only screen and (max-width:990px) {
+
+    .table-p {
+        padding: 0 0 0 30px;
+      }
+  }
+
+  @media only screen and (max-width:431px) {
+
+    .logo-sized{
+        width: 120px;
+        height: auto;
+        
+      }
+    .user-size{
+      width: 30px;
+      height: auto;
+    }  
+  }
+
+  @media only screen and (max-width:991px) {
+
+    .apps_mar{
+      margin: 50px 0 0 0;
+    } 
+  }
+
+
+  @media only screen and (max-width:991px) {
+
+    .leftsi{
+      margin:0 0 0 0;
+    } 
+  }
+
+  @media only screen and (max-width:575px) {
+
+    .test_empty{
+      margin:20px 0 0 0;
+    } 
+  }
+
+
+  @media only screen and (max-width:991px) {
+
+    .test_empty_drop{
+      margin:60px 0 0 0;
+    } 
+  }
+
+/*----------------------BuyNoir-----------------------*/
+
+  @media only screen and (max-width:575px) {
+
+    .Order_image{
+      margin-top: 20px;
+    }
+    .order_text{
+      margin-top: 30px;
+      margin-left: 20px;
+    }
+    .qty_text{
+      text-align: end;
+      margin-right: 10px;
+    }
+
+    .qty_text_al{
+      margin-right: 10px;
+    }
+  }
